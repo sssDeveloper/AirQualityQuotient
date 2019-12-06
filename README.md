@@ -4,7 +4,7 @@ Throughout the world people are migrating from rural areas to cities in search o
 
 # How are we helping
 
-AirQualityQuotient will provide meaningful insights and tools on how air quality of the city has changed over the years. This will empower activists and citizens with necessary information to question policy makers and bring about a change for the better and increase livability and sustainabilty of the city.
+AirQualityQuotient will provide meaningful insights and tools leveraging "ASDI OpenAQ" dataset on how air quality of the city has changed over the years. This will empower activists and citizens with necessary information to question policy makers and bring about a change for the better and increase livability and sustainabilty of the city.
 
 # MVP for hackathon and Future
 
@@ -23,4 +23,5 @@ Hackathons come with time constraints, given the limited time below are the feat
 # How did we do it
 
 Our solution leverages the power of cloud and is built on top of AWS managed services. Architecture covers current and future state of our application implementation.
+
 
