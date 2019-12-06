@@ -42,6 +42,6 @@ openaq_analysis.ipynb provides in depth exploratory analysis of openaq data and 
 
 ![alt text](https://github.com/sssDeveloper/AirQualityQuotient/blob/master/PM25.png "New Delhi PM25 time series visualization")
 
-### Top 10 most poluted countries
+### Most polluted countries
 ![alt text](https://github.com/sssDeveloper/AirQualityQuotient/blob/master/Top10.png "Top 10 most poluted countries")
 
