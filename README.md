@@ -34,3 +34,14 @@ We are adding images of the dashboard as AWS only allows members of the same acc
 
 ![alt text](https://github.com/sssDeveloper/AirQualityQuotient/blob/master/DataViz.png "Data Visualization of multiple cities")
 
+## Machine Learning Notebook
+
+openaq_analysis.ipynb provides in depth exploratory analysis of openaq data and also creates a forcast prediction model using AWS forcecast as an API to predict the next 14 days air quality index for the city of New Delhi
+
+### New Dehli PM25 time series visualization
+
+![alt text](https://github.com/sssDeveloper/AirQualityQuotient/blob/master/PM25.png "New Dehli PM25 time series visualization")
+
+### Top 10 most poluted countries
+![alt text](https://github.com/sssDeveloper/AirQualityQuotient/blob/master/Top10.png "Top 10 most poluted countries")
+
