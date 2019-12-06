@@ -38,7 +38,7 @@ We are adding images of the dashboard as AWS only allows members of the same acc
 
 ## Machine Learning Notebook
 
-openaq_analysis.ipynb provides in depth exploratory analysis of openaq data and also creates a forcast prediction model using AWS forecast as an API to predict the next 14 days air quality index for the city of New Delhi
+openaq_analysis.ipynb provides in depth exploratory analysis of openaq data and also creates a forecast prediction model using AWS forecast as an API to predict the next 14 days air quality index for the city of New Delhi
 
 ### New Delhi PM25 time series visualization
 
