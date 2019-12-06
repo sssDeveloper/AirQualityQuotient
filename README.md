@@ -11,11 +11,16 @@ AirQualityQuotient will provide meaningful insights and tools on how air quality
 ## MVP
 
 Hackathons come with time constraints, given the limited time below are the features of our solution 
-* Visualization provides ability to view different air quality parameters across the globe for major cities for a selected time period. Visualization can be integrated into thrid party applications
-* Visualization provides ability to select a particular city and view different air quality parameters for the selected time period. Visualization can be integrated into thrid party applications
-* Jupyter Notebook to forecast PPM count for NewDelhi with range slider showing visualization of historical data 
+* Visualization provides ability to view different air quality parameters across the globe for major cities for time period selected. Visualization can be integrated into thrid party applications.
+* Visualization provides ability to select a particular city and view different air quality parameters for the time period selected. Visualization can be integrated into thrid party applications
+* ML algorithm to forecast PPM count for NewDelhi with range slider showing visualization of historical data as jupyter notebook.
 
 ## Future
     
 * AirQualityQuotient will leverage machine learning and forecast different air quality paramteres for multiple cities.
 * Expose forecasted air quality paramters as a API service for thrid party developers to integrate within their application.
+
+# How did we do it
+
+Our solution leverages the power of cloud and is built on top of AWS managed services. Architecture covers current and future state of our application implementation.
+
