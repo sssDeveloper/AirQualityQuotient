@@ -24,4 +24,4 @@ Hackathons come with time constraints, given the limited time below are the feat
 
 Our solution leverages the power of cloud and is built on top of AWS managed services. Architecture covers current and future state of our application implementation.
 
-![alt text](https://https://github.com/sssDeveloper/AirQualityQuotient/blob/master/AQQ.jpeg "Architecture Diagram")
+![alt text](https://github.com/sssDeveloper/AirQualityQuotient/blob/master/AQQ.jpeg "Architecture Diagram")
