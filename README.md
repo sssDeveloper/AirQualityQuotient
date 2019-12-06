@@ -11,7 +11,7 @@ AirQualityQuotient will provide meaningful insights and tools leveraging "ASDI O
 ## MVP
 
 Hackathons come with time constraints, given the limited time below are the features of our solution 
-* Visualization provides ability to view different air quality parameters across the globe for major cities for time period selected. Visualization can be integrated into thrid party applications.
+* Visualization provides ability to view different air quality parameters like CO, O3, PPM, NO2, PM10, PM25, SO2 across the globe for major cities for time period selected. Visualization can be integrated into thrid party applications.
 * Visualization provides ability to select a particular city and view different air quality parameters for the time period selected. Visualization can be integrated into thrid party applications
 * ML algorithm to forecast PPM count for NewDelhi with range slider showing visualization of historical data as jupyter notebook.
 
@@ -25,3 +25,12 @@ Hackathons come with time constraints, given the limited time below are the feat
 Our solution leverages the power of cloud and is built on top of AWS managed services. Architecture covers current and future state of our application implementation.
 
 ![alt text](https://github.com/sssDeveloper/AirQualityQuotient/blob/master/AQQ.jpeg "Architecture Diagram")
+
+# Visualization of Solution
+
+We are adding images of the dashboard as AWS only allows members of the same account to view the dashboard and work with it.
+
+## Visualization of air quality parameters for selected time range
+
+![alt text](https://github.com/sssDeveloper/AirQualityQuotient/blob/master/DataViz.png "Data Visualization of multiple cities")
+
